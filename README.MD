@@ -1,8 +1,8 @@
 # FastAPI AI Apps
 
-![GitHub Stars](https://img.shields.io/github/stars/Dataflow-kz/fast-api-ai-apps)
-![GitHub Forks](https://img.shields.io/github/forks/Dataflow-kz/fast-api-ai-apps)
-![GitHub Issues](https://img.shields.io/github/issues/Dataflow-kz/fast-api-ai-apps)
+![GitHub Stars](https://img.shields.io/github/stars/Dataflow-kz/fastapi-ai-apps)
+![GitHub Forks](https://img.shields.io/github/forks/Dataflow-kz/fastapi-ai-apps)
+![GitHub Issues](https://img.shields.io/github/issues/Dataflow-kz/fastapi-ai-apps)
 
 ## Overview
 
